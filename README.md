@@ -1,2 +1,2 @@
-# rishi
+# Rishibagh
 Using first time
